@@ -44,9 +44,9 @@ You can view the live version of the portfolio here:
 
 ### 📷 Preview
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ba1dd5da-2a9a-4f62-82f5-a5f6579a2f55" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3b506f3a-7e26-4e3d-9a2d-d06173f6c530" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/64a0b044-abd1-4182-81c6-21ad262e9703" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ba1dd5da-2a9a-4f62-82f5-a5f6579a2f55" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/919dc8f2-2d9b-4a7b-bdcf-279b41f7a79e" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e84f57b9-7e20-464a-b749-a83887356072" />
 
